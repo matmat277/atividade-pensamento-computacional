@@ -1,0 +1,34 @@
+.perguntas
+{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(139, 75, 55);
+}
+
+.respostas
+{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(6, 109, 143);
+}
+
+.lista
+{
+    text-align: center;
+    font-size: 35px;
+}
+
+header
+{
+    text-align: center;
+    font-size: 60px;
+
+}
+
+#imagem {
+        display: block;
+        margin-left: auto;
+        margin-right: auto 
+    }
+
+
